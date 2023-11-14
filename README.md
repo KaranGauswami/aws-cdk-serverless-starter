@@ -9,6 +9,10 @@ The `cdk.json` file tells the CDK Toolkit how to execute your app.
 Getting Started
 Clone the repository.
 
+```bash
+git clone https://github.com/KaranGauswami/aws-cdk-serverless-starter.git
+```
+
 Install the dependencies:
 
 ```bash
